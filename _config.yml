@@ -1,0 +1,27 @@
+# Dependencies
+gems:
+  - jekyll-sitemap
+highlighter:         pygments
+markdown:            redcarpet
+
+# Setup
+baseurl:             ''
+description:         "Ben Clark lives in Brooklyn and does marketing at SeatGeek. He's originally from Atlanta, went to school at Vanderbilt, and used to work at Yelp, Clover, Buddy Media, &amp; Salesforce.com."
+permalink:           pretty
+relative_permalinks: true
+sass:
+  style:             compressed
+tagline:             Ben Clark's website
+title:               clarkbk.com
+url:                 http://clarkbk.com
+
+# About
+author:
+  email:             benjamin.k.clark@gmail.com
+  name:              Ben Clark
+  social_urls:
+    facebook:        https://www.facebook.com/clarkbk
+    github:          https://github.com/clarkbk
+    linkedin:        https://www.linkedin.com/in/clarkbk
+    twitter:         https://twitter.com/clarkbk
+    google_plus:     https://plus.google.com/u/0/101356415299525876294

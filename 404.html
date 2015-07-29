@@ -1,8 +1,10 @@
 ---
 layout: base
 style: home
-h1_text: Ben Clark
-p_text: Lives in New York. Works at <a href="https://seatgeek.com">SeatGeek</a>.
+title: 404
+h1_text: 404
+p_text: Oops. There's no page here. Go <a href="$SITE_URL">home</a>?
+sitemap: false
 ---
 
 <header class="intro">
@@ -11,7 +13,7 @@ p_text: Lives in New York. Works at <a href="https://seatgeek.com">SeatGeek</a>.
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
           <h1 class="brand-heading">{{ page.h1_text }}</h1>
-          <p class="intro-text">{{ page.p_text }}</p>
+          <p class="intro-text">{{ page.p_text | replace: '$SITE_URL', site.url }}</p>
         </div>
       </div>
     </div>
