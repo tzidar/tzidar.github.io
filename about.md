@@ -46,7 +46,7 @@ Sometimes I go places and take photos. When that happens, I usually put the phot
 
 ## This Site
 
-I thought having a personal website could be interesting. I don't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
+I thought a personal website could be interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
 
 * [Namecheap](https://www.namecheap.com) for domain registration
 * [CloudFlare](https://www.cloudflare.com) for fast, free DNS
