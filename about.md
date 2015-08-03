@@ -48,7 +48,7 @@ Sometimes I go places and take photos. When that happens, I usually put the phot
 
 I thought a personal website could be interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
 
-* [Namecheap](https://www.namecheap.com) for domain registration
+* [Google Domains](https://domains.google.com/about/) for domain registration
 * [CloudFlare](https://www.cloudflare.com) for fast, free DNS
 * [GitHub Pages](https://pages.github.com/) for simple, free web hosting
 * [Jekyll](https://github.com/jekyll/jekyll) for easy templating and markdown things
