@@ -10,6 +10,9 @@ I love chapekis
 
 I narrowly missed being born in North Carolina, where most of my family lives, and instead grew up in Atlanta with a sister named [Rachel](https://www.facebook.com/profile.php?id=2717269). After a lifetime as an overprivileged and under-aware prep star at Pace Academy, I went to Vanderbilt University, where I did Economics, Chinese, Frisbee, and other general shenanigans. For a semester, I lived in Beijing. After school, I moved to New York to take my first job at Yelp. Later I moved to Phoenix, still with Yelp. Then back to NYC for a new job and with my girlfriend [Janice](https://www.facebook.com/janice.bacuetes) (*juh-neece*), with whom I now reside contentedly in South Williamsburg, on the East River.
 
+
+
+
 <div id="map"></div>
 
 ## Fun facts
@@ -46,7 +49,7 @@ Sometimes I go places and take photos. When that happens, I usually put the phot
 
 ## This Site
 
-I thought a personal website could be interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
+I thought a personal website could be an interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
 
 * [Google Domains](https://domains.google.com/about/) for domain registration
 * [CloudFlare](https://www.cloudflare.com) for fast, free DNS

@@ -6,7 +6,7 @@ markdown:            redcarpet
 
 # Setup
 baseurl:             ''
-description:         "Tom Zidar senior at University of Michigan. Studying Business & Informatics. "
+description:         "Tom Zidar senior at University of Michigan. Studying Business & Informatics. fix this"
 permalink:           pretty
 relative_permalinks: true
 sass:
