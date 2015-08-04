@@ -7,13 +7,13 @@ style: page
 
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it.
 
-Age: time since bday
-Hours of Sleep: fitbit
-Today's Steps: fitbit
-Last Song Played: spotify
-Top 5 Songs: spotify
-Uber Miles Traveled: uber
-Heat Map:  uber
+* Age: time since bday
+* Hours of Sleep: fitbit
+* Today's Steps: fitbit
+* Last Song Played: spotify
+* Top 5 Songs: spotify
+* Uber Miles Traveled: uber
+* Heat Map:  uber
 
 ## Life
 
