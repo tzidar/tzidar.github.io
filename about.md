@@ -3,6 +3,17 @@ title: Hi, I'm Tom
 layout: page
 style: page
 ---
+## Tom Quantified
+
+I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it.
+
+Age: time since bday
+Hours of Sleep: fitbit
+Today's Steps: fitbit
+Last Song Played: spotify
+Top 5 Songs: spotify
+Uber Miles Traveled: uber
+Heat Map:  uber
 
 ## Life
 
@@ -16,7 +27,7 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 <div id="map"></div>
 
 ## Fun facts
-
+* Word of the day circulate from Chapekis, dabble etc.
 * never owned an iPhone
 * used to speak pretty good Mandarin Chinese
 * lives in Brooklyn, rides a fixed gear bicycle, and so what
