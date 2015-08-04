@@ -7,7 +7,7 @@ style: page
 
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it.
 ## Tom Quantified
-* Age: time since bday
+* Age: time since bday years, months, day, hour
 * Hours of Sleep: fitbit
 * Today's Steps: fitbit
 * Last Song Played: spotify
