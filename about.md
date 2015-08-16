@@ -10,8 +10,8 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 * Age: time since bday years, months, day, hour
 * Hours of Sleep: fitbit
 * Today's Steps: fitbit
-* Last Song Played: spotify
-* Top 5 Songs: spotify
+* Favorite Song: spotify
+* Favorite Band:
 * Uber Miles Traveled: uber
 * HeatMap:  uber
 
@@ -28,7 +28,7 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 
 ## Fun facts
 * Word of the day circulate from Chapekis, dabble etc.
-* Facetime is my favorite form of communication
+* Facetime is my favorite digital communication
 * never owned an iPhone
 * used to speak pretty good Mandarin Chinese
 * lives in Brooklyn, rides a fixed gear bicycle, and so what
@@ -55,7 +55,7 @@ And although these jobs didn't make my [résumé (pdf)](http://files.clarkbk.com
 
 ## Pictures
 
-Sometimes I go places and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/photos/101356415299525876294/albums), of all places. Here's a taste:
+Sometimes I go places and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/u/1/photos/101682164582576787375/albums/6183474494321744017?authkey=CPS4p9bfu_7v1QE), of all places. Here's a taste:
 
 {% include gallery.html %}
 
