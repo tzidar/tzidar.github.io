@@ -29,9 +29,11 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 ## Fun & Favorites Facts
 * Word of the day circulate from Chapekis, dabble etc.
 * Facetime enthusiast
+* Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
 * Favorite Fruit: Banannas
 * Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
 * Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
+* Former [beef jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exsists)
 * used to speak pretty good Mandarin Chinese
 * lives in Brooklyn, rides a fixed gear bicycle, and so what
 * can't understand why anyone likes baseball
