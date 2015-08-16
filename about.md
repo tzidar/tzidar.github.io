@@ -41,7 +41,6 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 * random celebrity sighting: <span id="celeb_sighting" style="display:none">Alec Baldwin</span>
 
 ## Work
-In reverse order, I've worked at:
 * [TownHound](http://www.townhoundapp.com), as a Business Analyst Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
