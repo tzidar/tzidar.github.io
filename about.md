@@ -28,7 +28,7 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 
 ## Fun facts
 * Word of the day circulate from Chapekis, dabble etc.
-* Facetime is my favorite digital communication
+* I am a Facetime enthusiast
 * never owned an iPhone
 * used to speak pretty good Mandarin Chinese
 * lives in Brooklyn, rides a fixed gear bicycle, and so what
