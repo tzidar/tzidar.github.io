@@ -5,7 +5,7 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This is automatically updated daily.
+I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This automatically updates.
 ## Tom Quantified
 * Age: time since bday years, months, day, hour
 * Hours of Sleep: fitbit
@@ -41,7 +41,6 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 * random celebrity sighting: <span id="celeb_sighting" style="display:none">Alec Baldwin</span>
 
 ## Work
-
 In reverse order, I've worked at:
 * [TownHound](http://www.townhoundapp.com), as a Business Analyst Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
