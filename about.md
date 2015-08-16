@@ -7,7 +7,7 @@ style: page
 
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This automatically updates.
 ## Tom Quantified
-* Age: time since bday years, months, day, hour
+* Age: 21
 * Hours of Sleep: fitbit
 * Today's Steps: fitbit
 * Favorite Song: spotify
@@ -17,9 +17,8 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 ## Life
 
-I love chapekis
 
-I narrowly missed being born in North Carolina, where most of my family lives, and instead grew up in Atlanta with a sister named [Rachel](https://www.facebook.com/profile.php?id=2717269). After a lifetime as an overprivileged and under-aware prep star at Pace Academy, I went to Vanderbilt University, where I did Economics, Chinese, Frisbee, and other general shenanigans. For a semester, I lived in Beijing. After school, I moved to New York to take my first job at Yelp. Later I moved to Phoenix, still with Yelp. Then back to NYC for a new job and with my girlfriend [Janice](https://www.facebook.com/janice.bacuetes) (*juh-neece*), with whom I now reside contentedly in South Williamsburg, on the East River.
+I UPDATE missed being born in North Carolina, where most of my family lives, and instead grew up in Atlanta with a sister named [Rachel](https://www.facebook.com/profile.php?id=2717269). After a lifetime as an overprivileged and under-aware prep star at Pace Academy, I went to Vanderbilt University, where I did Economics, Chinese, Frisbee, and other general shenanigans. For a semester, I lived in Beijing. After school, I moved to New York to take my first job at Yelp. Later I moved to Phoenix, still with Yelp. Then back to NYC for a new job and with my girlfriend [Janice](https://www.facebook.com/janice.bacuetes) (*juh-neece*), with whom I now reside contentedly in South Williamsburg, on the East River.
 
 
 
@@ -56,7 +55,7 @@ Coming soon...
 
 ## Pictures
 
-Sometimes I go places and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/u/1/photos/101682164582576787375/albums/6183474494321744017?authkey=CPS4p9bfu_7v1QE), of all places. Here's a taste:
+UPDATE I go places and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/u/1/photos/101682164582576787375/albums/6183474494321744017?authkey=CPS4p9bfu_7v1QE), of all places. Here's a taste:
 
 {% include gallery.html %}
 
