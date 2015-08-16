@@ -5,7 +5,7 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it.
+I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This is automatically updated daily.
 ## Tom Quantified
 * Age: time since bday years, months, day, hour
 * Hours of Sleep: fitbit
@@ -26,10 +26,12 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 
 <div id="map"></div>
 
-## Fun facts
+## Fun & Favorites Facts
 * Word of the day circulate from Chapekis, dabble etc.
-* I am a Facetime enthusiast
-* never owned an iPhone
+* Facetime enthusiast
+* Favorite Fruit: Banannas
+* Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
+* Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
 * used to speak pretty good Mandarin Chinese
 * lives in Brooklyn, rides a fixed gear bicycle, and so what
 * can't understand why anyone likes baseball
@@ -41,17 +43,16 @@ I narrowly missed being born in North Carolina, where most of my family lives, a
 ## Work
 
 In reverse order, I've worked at:
+* [TownHound](http://www.townhoundapp.com), as a Business Analyst Intern
+* [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
+* [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
+* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en),as a Supply Chain Intern
 
-* [SeatGeek](https://seatgeek.com/), as Director of Customer Acquisition
-* [Buddy Media](http://www.exacttarget.com/products/social-media-marketing/buddy-media) (now part of the Salesforce Marketing Cloud), as a Business Intelligence Analyst
-* [Clover](https://www.clover.com/), as a Sales Operations Manager
-* [Yelp](http://www.yelp.com/nyc), as a CRM Administrator
+## Personal Projects
 
-And although these jobs didn't make my [résumé (pdf)](http://files.clarkbk.com/resume.pdf) or my [LinkedIn profile](https://www.linkedin.com/in/clarkbk), I have also at various times earned a living as:
+Coming soon...
 
-* a dog walker
-* a grocery bagger
-* a Methodist wedding acolyte
+
 
 ## Pictures
 
@@ -64,7 +65,6 @@ Sometimes I go places and take photos. When that happens, I usually put the phot
 I thought a personal website could be an interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
 
 * [Google Domains](https://domains.google.com/about/) for domain registration
-* [CloudFlare](https://www.cloudflare.com) for fast, free DNS
 * [GitHub Pages](https://pages.github.com/) for simple, free web hosting
 * [Jekyll](https://github.com/jekyll/jekyll) for easy templating and markdown things
 * [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) and [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) themes from [Start Bootstrap](http://startbootstrap.com/) for "visually enhancing my personal brand"
