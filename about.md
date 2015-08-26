@@ -5,7 +5,7 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This automatically updates.
+I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
 ## Tom Quantified
 * Age: 21
 * Hours of Sleep: fitbit
@@ -13,6 +13,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 * Favorite Song: spotify
 * Favorite Band:
 * Uber Miles Traveled: uber
+* Amount of Caffeine Consumed: Starbucks API?
 * HeatMap:  uber
 
 ## Life
@@ -28,27 +29,23 @@ I UPDATE missed being born in North Carolina, where most of my family lives, and
 ## Fun Facts
 * Facetime enthusiast
 * Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
-* Favorite Fruit: Banannas
+* I've seen Mumford & Sons perform in 5 different states
 * Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
 * Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
-* Former [beef jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
-* used to speak pretty good Mandarin Chinese
-* lives in Brooklyn, rides a fixed gear bicycle, and so what
-* can't understand why anyone likes baseball
-* proficient with banjos
-* been to Disneyland (twice), not Disneyworld
-* had a college radio show and played [this song](https://www.youtube.com/watch?v=U55hXetSKSQ) weirdly often
-* random celebrity sighting: <span id="celeb_sighting" style="display:none">Alec Baldwin</span>
+* [Beef jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
+* Helped [Arrowhead Stadium](http://www.si.com/nfl/2014/09/29/chiefs-break-seahawks-noise-record) become the loudest stadium in the world
+* I've studied Latin longer than I've ever lived in the same city
+
 
 ## Work
-* [TownHound](http://www.townhoundapp.com), as a Business Analyst Intern
+* [TownHound](http://www.townhoundapp.com), as a Business Analyst
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
 * [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en),as a Supply Chain Intern
 
 ## Personal Projects
 
-Coming soon...
+Besides this? Coming soon...
 
 
 
@@ -60,7 +57,9 @@ UPDATE I go places and take photos. When that happens, I usually put the photos 
 
 ## This Site
 
-I thought a personal website could be an interesting side project. But, I didn't have any web experience so I copied it from from my former SeatGeek boss. His words- "You can fork it, star it, or just plain poke around it" [on GitHub](https://github.com/clarkbk/clarkbk.github.io). Here are some of the things that I used:
+I thought a personal website could be an interesting side project. But, I didn't have any web experience so I "had some help" from from my [SeatGeek boss](https://seatgeek.com/sgteam/#BenClark)
+
+ Here are some of the things that I used:
 
 * [Google Domains](https://domains.google.com/about/) for domain registration
 * [GitHub Pages](https://pages.github.com/) for simple, free web hosting
