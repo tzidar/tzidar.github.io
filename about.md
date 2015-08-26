@@ -27,17 +27,17 @@ I UPDATE missed being born in North Carolina, where most of my family lives, and
 * Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
 * Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
 * Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
-* [Beef jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
+* [Beef Jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
 * I've seen [Mumford & Sons](https://www.youtube.com/watch?v=rId6PKlDXeU) perform in 5 different states
-* I've studied Latin longer than I've ever lived in the same city
+* Studied Latin longer than I've ever lived in the same city
 * Helped [Arrowhead Stadium](http://www.si.com/nfl/2014/09/29/chiefs-break-seahawks-noise-record) become the loudest stadium in the world
 
 
 ## Work
-* [TownHound](http://www.townhoundapp.com), as a Business Analyst
+* [TownHound](http://www.townhoundapp.com), as a Business Analyst Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
-* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en),as a Supply Chain Intern
+* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en),as an Operations Intern
 
 ## Personal Projects
 
