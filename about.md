@@ -6,15 +6,13 @@ style: page
 
 
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
-## Tom Quantified
+## Tom's Yesterday Quantified
 * Age: 21
 * Hours of Sleep: fitbit
-* Today's Steps: fitbit
 * Favorite Song: spotify
 * Favorite Band:
 * Uber Miles Traveled: uber
 * Amount of Caffeine Consumed: Starbucks API?
-* HeatMap:  uber
 
 ## Life
 
@@ -51,7 +49,9 @@ Besides this? Coming soon...
 
 ## Pictures
 
-UPDATE I go places and take photos. When that happens, I usually put the photos [on Google+](https://plus.google.com/u/1/photos/101682164582576787375/albums/6183474494321744017?authkey=CPS4p9bfu_7v1QE), of all places. Here's a taste:
+I mainly travel with my family. Luckily, my sister [Mary](https://www.facebook.com/mary.zidar?fref=ts) loves to capture the moment.
+
+Here's a taste:
 
 {% include gallery.html %}
 
@@ -66,3 +66,4 @@ I thought a personal website could be an interesting side project. But, I didn't
 * [Jekyll](https://github.com/jekyll/jekyll) for easy templating and markdown things
 * [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) and [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) themes from [Start Bootstrap](http://startbootstrap.com/) for "visually enhancing my personal brand"
 * [Blueimp Gallery](https://github.com/blueimp/Gallery) for the slideshow up there
+* [Fitbit](https://dev.fitbit.com), [Spotify](https://developer.spotify.com/web-api/), [Uber](https://developer.uber.com), [Starbucks](https://testhost.openapi.starbucks.com/location/v2/#Earth) APIs for Quantified Tom
