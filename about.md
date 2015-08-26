@@ -24,13 +24,13 @@ I UPDATE missed being born in North Carolina, where most of my family lives, and
 
 ## Fun Facts
 * Facetime enthusiast
-* Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
-* I've seen Mumford & Sons perform in 5 different states
 * Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
+* Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
 * Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
 * [Beef jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
-* Helped [Arrowhead Stadium](http://www.si.com/nfl/2014/09/29/chiefs-break-seahawks-noise-record) become the loudest stadium in the world
+* I've seen [Mumford & Sons](https://www.youtube.com/watch?v=rId6PKlDXeU) perform in 5 different states
 * I've studied Latin longer than I've ever lived in the same city
+* Helped [Arrowhead Stadium](http://www.si.com/nfl/2014/09/29/chiefs-break-seahawks-noise-record) become the loudest stadium in the world
 
 
 ## Work
@@ -64,4 +64,4 @@ I thought a personal website could be an interesting side project. But, I didn't
 * [Jekyll](https://github.com/jekyll/jekyll) for easy templating and markdown things
 * [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) and [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) themes from [Start Bootstrap](http://startbootstrap.com/) for "visually enhancing my personal brand"
 * [Blueimp Gallery](https://github.com/blueimp/Gallery) for the slideshow up there
-* [Fitbit](https://dev.fitbit.com), [Spotify](https://developer.spotify.com/web-api/), [Uber](https://developer.uber.com), [Starbucks](https://testhost.openapi.starbucks.com/location/v2/#Earth) APIs for Quantified Tom
+* [Fitbit](https://dev.fitbit.com), [Spotify](https://developer.spotify.com/web-api/), [Uber](https://developer.uber.com), & [Starbucks](https://testhost.openapi.starbucks.com/location/v2/#Earth) APIs for Quantified Tom
