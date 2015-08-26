@@ -6,7 +6,7 @@ style: page
 
 
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
-## Tom's Yesterday Quantified
+## Tom Quantified (Yesterday)
 * Age: 21
 * Hours of Sleep: fitbit
 * Favorite Song: spotify
@@ -21,8 +21,6 @@ I UPDATE missed being born in North Carolina, where most of my family lives, and
 
 
 
-
-<div id="map"></div>
 
 ## Fun Facts
 * Facetime enthusiast
@@ -57,7 +55,7 @@ Here's a taste:
 
 ## This Site
 
-I thought a personal website could be an interesting side project. But, I didn't have any web experience so I "had some help" from from my [SeatGeek boss](https://seatgeek.com/sgteam/#BenClark)
+I thought a personal website could be an interesting side project. But, I didn't have any web experience so I "had some help" from my [SeatGeek boss](https://seatgeek.com/sgteam/#BenClark)
 
  Here are some of the things that I used:
 
