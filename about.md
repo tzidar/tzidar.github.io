@@ -8,17 +8,16 @@ style: page
 I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
 ## Tom Quantified (Yesterday)
 * Age: 21
-* Hours of Sleep: fitbit
-* Hours on Spotify:
-* Favorite Song: spotify
-* Favorite Band:
-* Uber Miles Traveled: uber
-* Amount of Caffeine Consumed: Starbucks API?
+* Amount of Sleep: 7 hours, 31 minutes
+* Time Spent on Spotify: 2 hours, 19 minutes
+* Coming soon...
+* Uber Miles Traveled:
+* Amount of Caffeine Consumed:
 
 ## Life
 
 
-I UPDATE missed being born in North Carolina, where most of my family lives, and instead grew up in Atlanta with a sister named [Rachel](https://www.facebook.com/profile.php?id=2717269). After a lifetime as an overprivileged and under-aware prep star at Pace Academy, I went to Vanderbilt University, where I did Economics, Chinese, Frisbee, and other general shenanigans. For a semester, I lived in Beijing. After school, I moved to New York to take my first job at Yelp. Later I moved to Phoenix, still with Yelp. Then back to NYC for a new job and with my girlfriend [Janice](https://www.facebook.com/janice.bacuetes) (*juh-neece*), with whom I now reside contentedly in South Williamsburg, on the East River.
+After moving 4 times as a kid, I now call Kansas City home ( though none of the 4 older siblings do). Then, I went an all-male Jesuit high school called Rockhurst. I am currently a senior at the University of Michigan studying business and informatics. I plan on working on some type of analytics within the technology sector of the world.
 
 
 
