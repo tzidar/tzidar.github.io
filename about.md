@@ -17,7 +17,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 ## Life
 
 
-After moving 4 times as a kid, I now call Kansas City home ( though none of the 4 older siblings do). Then, I went an all-male Jesuit high school called Rockhurst. I am currently a senior at the University of Michigan studying business and informatics. I plan on working on some type of analytics within the technology sector of the world.
+After moving 5 times as a child, I now call Kansas City home ( though none of the 4 older siblings do). During those formative years, I went to an all-male Jesuit high school,  worked at a local carwash then started a car detailing company, and occasionally explored nearby farms. I decided I wanted a bit of a change so I went far far away to the University of Michigan where I am currently a senior studying business and informatics. I am seeking a data analyst position within the technology sector upon graduation.
 
 
 
@@ -37,12 +37,7 @@ After moving 4 times as a kid, I now call Kansas City home ( though none of the 
 * [TownHound App](http://www.townhoundapp.com), as a Growth Analytics Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
-* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en),as an Operations Intern
-
-## Personal Projects
-
-Besides this? Coming soon...
-
+* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en) ,as an Operations Intern
 
 
 ## Pictures
