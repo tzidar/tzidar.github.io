@@ -20,6 +20,9 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 After moving 5 times as a child, I now call Kansas City home ( though none of the 4 older siblings do). During those formative years, I went to an all-male Jesuit high school,  worked at a local carwash then started a car detailing company, and occasionally explored nearby farms. I decided I wanted a bit of a change so I went far far away to the University of Michigan where I am currently a senior studying business and informatics. I am seeking a data analyst position within the technology sector upon graduation.
 
 
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="642" height="443" src="https://maps.google.com/maps?hl=en&q=2308 west 69th st. mission hills, ks 66208&ie=UTF8&t=satellite&z=14&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://www.premiumlinkgenerator.com/">multihoster premium</a></small></div></iframe>
+
+
 
 
 ## Fun Facts
