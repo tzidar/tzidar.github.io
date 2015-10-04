@@ -47,10 +47,7 @@ After moving 5 times as a child, I now call Kansas City home ( though none of th
 
 I mainly travel with my family. Luckily, my sister [Mary](https://www.facebook.com/mary.zidar?fref=ts) loves to capture the moment.
 
-Some of the places pictured:
-* Skagway, Alaska
-* San Francisco, California
-* Traverse City, Michigan
+Here's a taste:
 
 
 {% include gallery.html %}
