@@ -35,14 +35,6 @@ After moving 5 times as a child, I now call Kansas City home ( though none of th
 * Studied Latin longer than I've ever lived in the same city
 * Helped [Arrowhead](http://www.si.com/nfl/2014/09/29/chiefs-break-seahawks-noise-record) become the loudest stadium in the world
 
-
-## Work
-* [TownHound App](http://www.townhoundapp.com), as a Growth Analytics Intern
-* [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
-* [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
-* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
-
-
 ## Pictures
 
 I mainly travel with my family. Luckily, my sister [Mary](https://www.facebook.com/mary.zidar?fref=ts) loves to capture the moment.
