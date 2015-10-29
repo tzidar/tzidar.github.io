@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Tom
+title: Work Experience
 layout: page
 style: page
 ---
@@ -11,3 +11,10 @@ style: page
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
 * [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
+
+## Software Skills
+
+
+<p> Progress in this discussion (100%)
+		<progress value="100" max="100"></progress>
+	</p>
