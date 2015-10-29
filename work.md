@@ -15,20 +15,20 @@ style: page
 ## Software Skills
 
 
-<p> Tableau (90%)
+<p> Tableau (90%)      
 		<progress value="90" max="100"></progress>
 	</p>
-<p> SQL (80%)
+<p> SQL (80%)          
 		<progress value="80" max="100"></progress>
 	</p>
-	<p> HTML, CSS, and Javascript (75%)
+<p> HTML and CSS (75%) 
 		<progress value="75" max="100"></progress>
-	</p>
+</p>
 
 <p> Python Pandas (50%)
 		<progress value="50" max="100"></progress>
 </p>
-<p> Excel VBA (50%)
+<p> Excel VBA (50%)     
 		<progress value="50" max="100"></progress>
 	</p>
 
