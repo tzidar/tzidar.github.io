@@ -17,7 +17,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		Tableau (90%)
+		<li> Tableau (90%) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -50,7 +50,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		Python Pandas (50%)
+		<li> Python Pandas (50%) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -61,7 +61,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		Excel VBA (50%)
+		<li> Excel VBA (50%) </li>
 	</div> 
 
 	<div class="col col-xs-8">
