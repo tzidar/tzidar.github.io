@@ -73,8 +73,10 @@ style: page
 
 <br>
 <div class="row">
-	<div class="col col-xs-2 col-xs-offset-5 text-center">
+	<div class="col col-xs-5"></div>
+	<div class="col col-xs-2 text-center">
 		<i class="fa fa-envelope-o fa-3x"></i>
 		<p><a href="mailto:tzidar@gmail.com">Email me with questions!</a></p>
 	</div>
+	<div class="col col-xs-5"</div>
 </div>
