@@ -15,70 +15,53 @@ style: page
 ## Software Skills
 
 <div class="row">
-	<div class="col col-xs-3">
+	<div class="col col-xs-4">
 		Tableau (90%)
 	</div> 
 
-	<div class="col col-xs-9">
+	<div class="col col-xs-8">
 		<progress value="180" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-3">
+	<div class="col col-xs-4">
 		SQL (80%)
 	</div> 
 
-	<div class="col col-xs-9">
+	<div class="col col-xs-8">
 		<progress value="160" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-3">
+	<div class="col col-xs-4">
 		HMTL and CSS (75%)
 	</div> 
 
-	<div class="col col-xs-9">
+	<div class="col col-xs-8">
 		<progress value="150" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-3">
+	<div class="col col-xs-4">
 		Python Pandas (50%)
 	</div> 
 
-	<div class="col col-xs-9">
+	<div class="col col-xs-8">
 		<progress value="100" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-3">
+	<div class="col col-xs-4">
 		Excel VBA (50%)
 	</div> 
 
-	<div class="col col-xs-9">
+	<div class="col col-xs-8">
 		<progress value="100" max="200"></progress>
 	</div>
 </div>
-
-
-
-
-<p> SQL (80%)          
-		<progress value="80" max="100"></progress>
-	</p>
-<p> HTML and CSS (75%) 
-		<progress value="75" max="100"></progress>
-</p>
-
-<p> Python Pandas (50%)
-		<progress value="50" max="100"></progress>
-</p>
-<p> Excel VBA (50%)     
-		<progress value="50" max="100"></progress>
-	</p>
 
 
