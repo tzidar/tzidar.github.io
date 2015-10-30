@@ -75,6 +75,6 @@ style: page
 <div class="row">
 	<div class="col col-xs-2 col-xs-offset-5 text-center">
 		<i class="fa fa-envelope-o fa-3x"></i>
-		<p><a href="mailto:tzidar@gmail.com">tzidar@gmail.com</a></p>
+		<p><a href="mailto:tzidar@gmail.com">Email me with questions!</a></p>
 	</div>
 </div>
