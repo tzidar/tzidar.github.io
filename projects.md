@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Tom
+title: Personal Projects
 layout: page
 style: page
 ---
@@ -9,12 +9,10 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 ## Tom Quantified (Yesterday)
 * Age: 21
 * Amount of Sleep: 7 hours, 31 minutes
+# Amount walked: 3.7 miles 
 * Time Spent on Spotify: 2 hours, 19 minutes
-* Coming soon...
-* Uber Miles Traveled:
-* Amount of Caffeine Consumed:
 
 
-#Music I listen while working
+#Music I listen to while I'm working
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2mP19NOAs1eNi9o6K8ngwt" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
