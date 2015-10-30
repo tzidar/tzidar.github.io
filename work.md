@@ -15,51 +15,51 @@ style: page
 ## Software Skills
 
 <div class="row">
-	<div class="col col-xs-2">
+	<div class="col col-xs-3">
 		Tableau (90%)
 	</div> 
 
-	<div class="col col-xs-10">
+	<div class="col col-xs-9">
 		<progress value="180" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-2">
+	<div class="col col-xs-3">
 		SQL (80%)
 	</div> 
 
-	<div class="col col-xs-10">
+	<div class="col col-xs-9">
 		<progress value="160" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-2">
+	<div class="col col-xs-3">
 		HMTL and CSS (75%)
 	</div> 
 
-	<div class="col col-xs-10">
+	<div class="col col-xs-9">
 		<progress value="150" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-2">
+	<div class="col col-xs-3">
 		Python Pandas (50%)
 	</div> 
 
-	<div class="col col-xs-10">
+	<div class="col col-xs-9">
 		<progress value="100" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
-	<div class="col col-xs-2">
+	<div class="col col-xs-3">
 		Excel VBA (50%)
 	</div> 
 
-	<div class="col col-xs-10">
+	<div class="col col-xs-9">
 		<progress value="100" max="200"></progress>
 	</div>
 </div>
