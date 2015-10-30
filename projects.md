@@ -5,12 +5,19 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
+<p>I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates. </p>
 ## Tom Quantified (Yesterday)
 * Age: 21
 * Amount of Sleep: 7 hours, 31 minutes
 * Amount walked: 3.7 miles 
 * Time Spent on Spotify: 2 hours, 19 minutes
+
+
+## A Day in the Life
+
+<p> I was curious how I spent my days. Using the Fitbit API, Spotify API, and class schedule I quantitatively broke it down. Below is a graph I created using the Seaborn library within Python.  
+	<img src="public/img/unknown.jpg" alt="Fun" >
+</p>
 
 
 #Music I listen to while I'm working
