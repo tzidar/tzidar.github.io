@@ -71,3 +71,10 @@ style: page
 
 </ul>
 
+<br>
+<div class="row">
+	<div class="col col-xs-2 col-xs-offset-5">
+		<i class="fa fa-envelope-o fa-3x"></i>
+		<p><a href="mailto:tzidar@gmail.com">tzidar@gmail.com</a></p>
+	</div>
+</div>
