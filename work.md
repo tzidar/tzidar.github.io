@@ -12,6 +12,12 @@ style: page
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
 * [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
 
+<p> Here's a video we made this summer for Townhound </p>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=vshG6Yiaoiw">
+</iframe>
+
+
 ## Software Skills
 <ul>
 

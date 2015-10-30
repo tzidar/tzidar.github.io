@@ -9,7 +9,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 ## Tom Quantified (Yesterday)
 * Age: 21
 * Amount of Sleep: 7 hours, 31 minutes
-# Amount walked: 3.7 miles 
+* Amount walked: 3.7 miles 
 * Time Spent on Spotify: 2 hours, 19 minutes
 
 
