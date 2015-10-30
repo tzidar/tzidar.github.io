@@ -14,10 +14,11 @@ style: page
 
 ## Software Skills
 
-
-<p> Tableau (90%)      
-		<progress value="90" max="100"></progress>
+<div class="row">
+<div class="col col-xs-3"> Tableau (90%) </div>     
+		<div class="col col-xs-9"> <progress value="90" max="100"></progress> </div>
 	</p>
+</div>
 <p> SQL (80%)          
 		<progress value="80" max="100"></progress>
 	</p>
