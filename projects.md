@@ -16,7 +16,7 @@ style: page
 ## A Day in the Life
 
 <p> I was curious how I spent my days. Using the Fitbit API, Spotify API, and class schedule I quantitatively broke it down. Below is a graph I created using the Seaborn library within Python.  
-	<img src="public/img/unknown/blueimp-gallery.jpg" alt="Fun" >
+	<img src="public/img/blueimp-gallery/unknown.jpg" alt="DayintheLife" >
 </p>
 
 
