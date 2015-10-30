@@ -13,10 +13,7 @@ style: page
 * [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
 
 <p> Here's a video we made this summer for Townhound </p>
-<iframe width="420" height="315"
-src="http://www.youtube.com/embed/vshG6Yiaoiw?autoplay=1">
-</iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vshG6Yiaoiw" frameborder="0" allowfullscreen></iframe>
 
 
 ## Software Skills
