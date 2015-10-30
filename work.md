@@ -14,8 +14,9 @@ style: page
 
 <p> Here's a video we made this summer for Townhound </p>
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=vshG6Yiaoiw?autoplay=1">
+src="http://www.youtube.com/embed/vshG6Yiaoiw?autoplay=1">
 </iframe>
+
 
 
 ## Software Skills
