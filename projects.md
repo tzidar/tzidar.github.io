@@ -5,7 +5,7 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. This feed automatically updates.
+I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. 
 ## Tom Quantified (Yesterday)
 * Age: 21
 * Amount of Sleep: 7 hours, 31 minutes
