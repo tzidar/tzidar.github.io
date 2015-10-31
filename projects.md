@@ -17,7 +17,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
  I was curious how I spent my days. Using the Fitbit API, Spotify API, and class schedule I quantitatively broke it down. Below is a graph I created using the Seaborn library within Python.  
 
-<img src="../../public/img/unknown.png" alt="DayintheLife" >
+<img src="../../public/img/Unknown.png" alt="DayintheLife" >
 
 #Music I listen to while I'm working
 
