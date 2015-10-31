@@ -186,3 +186,20 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: transparentize(white, 0.8);
 }
+
+
+ @media only screen and (min-width: 720px) {
+ 
+    
+    #video{
+      display:none;
+
+    }
+
+
+
+ @media only screen and (min-width: 1200px) {
+   
+    #spotify{
+      display:none;
+    }
