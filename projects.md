@@ -19,7 +19,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 <img src="../../public/img/Unknown.png" alt="DayintheLife" >
 
-#Music I listen to while I'm working
+# Music I listen to while I'm working
 
 <div class="row" id="spotify">
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2mP19NOAs1eNi9o6K8ngwt" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
