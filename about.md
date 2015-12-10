@@ -17,9 +17,9 @@ After moving 5 times as a child, I now call Kansas City home ( though none of th
 
 ## Fun Facts
 * Facetime enthusiast
-* Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&pt=site&ct=postagram_home)
+* Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&amp;pt=site&amp;ct=postagram_home)
 * Love [strange] (https://www.youtube.com/watch?v=VUxh-jw-C-w) music videos
-* Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&ie=UTF8&qid=1439705301&sr=1-1&refinements=p_27%3AAndy+Weir) by Andy Weir
+* Last Book Read: [The Martian](http://www.amazon.com/Martian-Andy-Weir/dp/0553418025/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1439705301&amp;sr=1-1&amp;refinements=p_27%3AAndy+Weir) by Andy Weir
 * [Beef Jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
 * I've seen [Mumford & Sons](https://www.youtube.com/watch?v=rId6PKlDXeU) perform in 5 different states
 * Studied Latin longer than I've ever lived in the same city
