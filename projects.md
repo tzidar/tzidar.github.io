@@ -19,9 +19,9 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 <img src="../../public/img/Unknown.png" alt="DayintheLife" >
 
-<!-- # Google Analytics
-
-
+# Google Analytics
+```html
+<div id="chart_div">
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript">
 
@@ -54,9 +54,9 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
-    </script> -->
-
-
+    </script>
+</div>
+```
 
 # Music I listen to while I'm working
 
