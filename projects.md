@@ -19,7 +19,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 <img src="../../public/img/Unknown.png" alt="DayintheLife" >
 
-# Google Analytics
+<!-- # Google Analytics
 ```html
 <body>
   <div id="chart_div">
@@ -58,7 +58,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
     </script>
 </div>
 </body>
-```
+``` -->
 
 # Music I listen to while I'm working
 
