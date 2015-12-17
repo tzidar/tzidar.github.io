@@ -21,7 +21,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 # Google Analytics
 
-    <div id="chart_div">
+
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript">
 
@@ -55,7 +55,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
         chart.draw(data, options);
       }
     </script>
-    </div>
+
 
 
 # Music I listen to while I'm working
