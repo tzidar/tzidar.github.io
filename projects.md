@@ -21,7 +21,7 @@ I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago
 
 # Google Analytics
 ```html
-<div id="chart_div">
+<div>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script type="text/javascript">
 
