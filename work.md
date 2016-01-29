@@ -14,7 +14,7 @@ style: page
 
 
 <div class="row" id="video">
-<p> Here's a video we made this summer for Thyme </p>
+<p> Here's a video we made this summer for Thyme (It's old name is Townhound) </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vshG6Yiaoiw" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -28,6 +28,16 @@ style: page
 
 	<div class="col col-xs-8">
 		<progress value="180" max="200"></progress>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col col-xs-4">
+		<li> Python Pandas (80%) </li>
+	</div> 
+
+	<div class="col col-xs-8">
+		<progress value="160" max="200"></progress>
 	</div>
 </div>
 
@@ -54,24 +64,16 @@ style: page
 </div>
 
 
-<div class="row">
-	<div class="col col-xs-4">
-		<li> Python Pandas (50%) </li>
-	</div> 
 
-	<div class="col col-xs-8">
-		<progress value="100" max="200"></progress>
-	</div>
-</div>
 
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Excel VBA (50%) </li>
+		<li> Excel VBA (60%) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="100" max="200"></progress>
+		<progress value="120" max="200"></progress>
 	</div>
 </div>
 
