@@ -8,7 +8,7 @@ markdown:            redcarpet
 baseurl:             ''
 description:         "Tom Zidar senior at University of Michigan. Studying Business & Informatics. fix this"
 permalink:           pretty
-relative_permalinks: true
+
 sass:
   style:             compressed
 tagline:             Tom Zidar's website
@@ -25,3 +25,7 @@ author:
     linkedin:        https://www.linkedin.com/in/tom-zidar-69087b45
     twitter:         https://twitter.com/tomzidar
     google_plus:     https://plus.google.com/u/0/101356415299525876294
+
+
+# i delted this line  (under permalink)
+# relative_permalinks: true
