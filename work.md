@@ -7,14 +7,14 @@ style: page
 
 
 ## Work
-* [Thyme-Acquired by Google](http://www.dineonthyme.com), as a Growth Analytics Intern
+* [TownnHound-Acquired by Google](http://www.dineonthyme.com), as a Growth Analytics Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
 * [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
 
 
 <div class="row" id="video">
-<p> Here's a video we made this summer for Thyme (It's old name is Townhound) </p>
+<p> Here's a video we made this summer for Townhound: </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vshG6Yiaoiw" frameborder="0" allowfullscreen></iframe>
 </div>
 
