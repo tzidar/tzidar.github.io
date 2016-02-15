@@ -5,7 +5,7 @@ style: page
 ---
 
 
-I recently heard [Harper Reed](http://harperreed.com/#/) speak at [Think Chicago](http://www.thinkchicago.net). I thought the idea was awesome so I copied it. 
+I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak at [Think Chicago](http://www.thinkchicago.net). I thought his [quantifed self idea](http://harperreed.com/#/) was awesome so I made my own. 
 
 ## Tom Quantified (Yesterday)
 * Age: 21
