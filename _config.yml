@@ -2,7 +2,7 @@
 gems:
   - jekyll-sitemap
 highlighter:         pygments
-markdown:            redcarpet
+markdown:            kramdown
 
 # Setup
 baseurl:             ''
