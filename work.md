@@ -95,5 +95,4 @@ style: page
 		<i class="fa fa-envelope-o fa-3x"></i>
 		<p><a href="mailto:tzidar@gmail.com">tzidar@gmail.com</a></p>
 	</div>
-	<div class="col col-xs-4"</div>
 </div>
