@@ -1,7 +1,7 @@
 # Dependencies
 gems:
   - jekyll-sitemap
-highlighter:         pygments
+highlighter:         rouge
 markdown:            kramdown
 
 # Setup
