@@ -18,7 +18,7 @@ After moving 5 times as a child, I now call Kansas City home ( though none of th
 ## Fun Facts
 * Facetime enthusiast
 * Favorite App: [Postagram](https://itunes.apple.com/us/app/id429264904?mt=8&amp;pt=site&amp;ct=postagram_home)
-* Love [strange](https://www.youtube.com/watch?v=pTOC_q0NLTk) music videos
+* Love [strange](http://www.youtube.com/watch?v=pTOC_q0NLTk) music videos
 * Random Hobby: Pogo-Sticking
 * [Beef Jerkey of the month](http://www.garywest.com/Jerky-of-the-Month/products/1006/) club member (yes, it exists)
 * Last Book Read: [Elon Musk Biography](http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) by Ashlee Vance
