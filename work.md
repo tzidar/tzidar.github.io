@@ -63,6 +63,15 @@ style: page
 	</div>
 </div>
 
+<div class="row">
+	<div class="col col-xs-4">
+		<li> R (65%) </li>
+	</div> 
+
+	<div class="col col-xs-8">
+		<progress value="130" max="200"></progress>
+	</div>
+</div>
 
 
 
