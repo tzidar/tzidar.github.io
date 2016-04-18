@@ -61,11 +61,10 @@ I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak 
 </body>
 ``` -->
 
-# My Google Analytics for this Sight
+# My Google Analytics for this Site
 
-I created an R shiny application
+I created an [R shiny application](https://tzidar.shinyapps.io/Toms_Google_Analytics/)
 
-<iframe>https://tzidar.shinyapps.io/Toms_Google_Analytics/ </iframe>
 
 # Music I listen to while I'm working
 
