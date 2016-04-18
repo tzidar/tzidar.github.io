@@ -65,7 +65,7 @@ I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak 
 
 I created an R shiny application
 
-<iframe src="https://tzidar.shinyapps.io/Toms_Google_Analytics/" width="800" height="500"></iframe>
+<iframe src="https://tzidar.shinyapps.io/Toms_Google_Analytics/" width="800" height="550"></iframe>
 
 
 # Music I listen to while I'm working
