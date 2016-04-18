@@ -63,7 +63,9 @@ I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak 
 
 # My Google Analytics for this Site
 
-I created an [R shiny application](https://tzidar.shinyapps.io/Toms_Google_Analytics/)
+I created an R shiny application
+
+<iframe src="https://tzidar.shinyapps.io/Toms_Google_Analytics/"></iframe>
 
 
 # Music I listen to while I'm working
