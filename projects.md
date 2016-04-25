@@ -70,9 +70,5 @@ I created an R shiny application
 
 # Music I listen to while I'm working
 
-<div class="row" id="spotify"> 
-	<p>
 <iframe src="https://embed.spotify.com/?uri=spotify:track:2mP19NOAs1eNi9o6K8ngwt" 
 width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-	</p>
-</div>
