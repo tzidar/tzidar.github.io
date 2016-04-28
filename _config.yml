@@ -6,7 +6,7 @@ markdown:            kramdown
 
 # Setup
 baseurl:             ''
-description:         "Tom Zidar senior at University of Michigan. Studying Business & Informatics. fix this"
+description:         "Tom Zidar starting work at Uber in July"
 permalink:           pretty
 
 sass:
