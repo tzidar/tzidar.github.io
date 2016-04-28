@@ -7,6 +7,7 @@ style: page
 
 
 ## Work
+* [Uber](https://www.uber.com/), as a Growth Analyst
 * TownnHound-Acquired by Google, as a Growth Analytics Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
