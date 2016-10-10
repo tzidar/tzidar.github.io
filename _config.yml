@@ -6,7 +6,7 @@ markdown:            kramdown
 
 # Setup
 baseurl:             ''
-description:         "Tom Zidar starting work at Uber in July"
+description:         "Tom Zidar started working at Uber in July"
 permalink:           pretty
 
 sass:
