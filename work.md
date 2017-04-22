@@ -24,53 +24,53 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Tableau (90%) </li>
+		<li> R (1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="180" max="200"></progress>
+		<progress value="200" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Python Pandas (80%) </li>
+		<li> SQL (1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="160" max="200"></progress>
-	</div>
-</div>
-
-
-<div class="row">
-	<div class="col col-xs-4">
-		<li> SQL (80%) </li>
-	</div> 
-
-	<div class="col col-xs-8">
-		<progress value="160" max="200"></progress>
+		<progress value="200" max="200"></progress>
 	</div>
 </div>
 
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> HMTL and CSS (75%) </li>
+		<li> Excel (6 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="150" max="200"></progress>
+		<progress value="100" max="200"></progress>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="col col-xs-4">
+		<li> HMTL and CSS (3 months) </li>
+	</div> 
+
+	<div class="col col-xs-8">
+		<progress value="50" max="200"></progress>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> R (75%) </li>
+		<li> Python Pandas (4 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="150" max="200"></progress>
+		<progress value="66" max="200"></progress>
 	</div>
 </div>
 
