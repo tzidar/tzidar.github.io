@@ -56,17 +56,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> HMTL and CSS (3 months) </li>
-	</div> 
-
-	<div class="col col-xs-8">
-		<progress value="50" max="200"></progress>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col col-xs-4">
-		<li> Python Pandas (4 months) </li>
+		<li> HMTL, CSS (4 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -74,16 +64,26 @@ style: page
 	</div>
 </div>
 
+<div class="row">
+	<div class="col col-xs-4">
+		<li> Python Pandas (3 months) </li>
+	</div> 
+
+	<div class="col col-xs-8">
+		<progress value="50" max="200"></progress>
+	</div>
+</div>
+
 
 
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Excel VBA (60%) </li>
+		<li> Excel VBA (2 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="120" max="200"></progress>
+		<progress value="40" max="200"></progress>
 	</div>
 </div>
 
