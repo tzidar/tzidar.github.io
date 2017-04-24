@@ -16,7 +16,7 @@ I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak 
 
 ## A Day in the Life
 
- I was curious how I spent my days. Using the Fitbit API, Spotify API, and class schedule I quantitatively broke it down. Below is a graph I created in R using ggplot2.  
+ I was curious how I spent my days. Using the Fitbit API, Spotify API, and work schedule I quantitatively broke it down. Below is a graph I created in R using ggplot2.  
 
 <img src="https://s3-us-west-2.amazonaws.com/files.tomzidar.com/carousel/unkown.png" alt="DayintheLife" >
 
