@@ -8,10 +8,10 @@ style: page
 I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak at [Think Chicago](http://www.thinkchicago.net). I thought his [quantifed self idea](http://harperreed.com/#/) was awesome so I made my own. 
 
 ## Tom Quantified (Yesterday)
-* Age: 23
-* Amount of Sleep: 7 hours, 38 minutes
-* Amount walked: 4.6 miles 
-* Time Spent on Spotify: 3 hours, 42 minutes
+* Age: 24
+* Amount of Sleep: 8 hours, 16 minutes
+* Amount walked: 5.2 miles 
+* Time Spent on Spotify: 2 hours, 39 minutes
 
 
 ## A Day in the Life
@@ -63,12 +63,12 @@ I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak 
 
 # My Google Analytics for this Site
 
-I created an R shiny application
+I created an R shiny application for my Uber job interview. Pardon the aesthetics 
 
 <iframe src="https://tzidar.shinyapps.io/Toms_Google_Analytics/" width="800" height="550"></iframe>
 
 
 # Music I listen to while I'm working
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2mP19NOAs1eNi9o6K8ngwt" 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:6WHNJHwOZSi42BSBVEQmso" 
 width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

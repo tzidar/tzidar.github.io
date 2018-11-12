@@ -7,7 +7,8 @@ style: page
 
 
 ## Work
-* [Uber](https://www.uber.com/), as a Growth Analyst
+* [Uber](https://www.uber.com/), as Marketing Analytics R&D 
+* [Uber](https://www.uber.com/), as a Growth Analyst 
 * TownnHound-Acquired by Google, as a Growth Analytics Intern
 * [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
 * [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
@@ -24,7 +25,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> R (1 year) </li>
+		<li> R (2 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -34,7 +35,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> SQL (1 year) </li>
+		<li> SQL (2 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -42,10 +43,9 @@ style: page
 	</div>
 </div>
 
-
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Excel (6 months) </li>
+		<li> Python Pandas (1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -54,25 +54,30 @@ style: page
 </div>
 
 
+
 <div class="row">
 	<div class="col col-xs-4">
-		<li> HMTL, CSS (4 months) </li>
+		<li> Excel (1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="66" max="200"></progress>
+		<progress value="100" max="200"></progress>
 	</div>
 </div>
 
+
+
+
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Python Pandas (3 months) </li>
+		<li> HMTL, CSS (3 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
 		<progress value="50" max="200"></progress>
 	</div>
 </div>
+
 
 
 
