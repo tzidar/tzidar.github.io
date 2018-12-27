@@ -24,6 +24,8 @@ style: page
 * [MIT Code](http://ide.mit.edu/events/2018-conference-digital-experimentation-code-0), [Presented our paper: Measuring Marketing Causal Effectiveness For Advertisers: The UAC Case Study](https://www.dropbox.com/sh/23jfbsamvrtk048/AADOq5cV0mwW58QI15FxGvEqa/Parallel%20Session%20F?dl=0&preview=Barajas+-+Measuring+Marketing+Causal+Effectiveness+For+Advertisers+The+UAC+Case+Study.docx&subfolder_nav_tracking=1)
 * [Google's New Frontier of Apps](https://events.withgoogle.com/google-apps-summit-2018/), Spoke on the measurement panel
 
+<img src="https://s3-us-west-2.amazonaws.com/files.tomzidar.com/carousel/IMG_8632.jpeg" alt="GoogleAppSummit" >
+
 ## Software Experience
 <ul>
 
