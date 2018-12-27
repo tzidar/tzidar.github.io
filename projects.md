@@ -8,7 +8,6 @@ style: page
 I recently heard [Harper Reed](https://en.wikipedia.org/wiki/Harper_Reed) speak at [Think Chicago](http://www.thinkchicago.net). I thought his [quantifed self idea](http://harperreed.com/#/) was awesome so I made my own. 
 
 ## Tom Quantified (Yesterday)
-* Age: 24
 * Amount of Sleep: 8 hours, 16 minutes
 * Amount walked: 5.2 miles 
 * Time Spent on Spotify: 2 hours, 39 minutes
