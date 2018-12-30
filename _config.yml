@@ -6,14 +6,14 @@ markdown:            kramdown
 
 # Setup
 baseurl:             ''
-description:         "Tom Zidar works at at Uber"
+description:         "Tom Zidar lives in San Francisco and does marketing analytics at Uber. From Kansas City and graduted from University of Michigan"
 permalink:           pretty
 
 sass:
   style:             compressed
 tagline:             Tom Zidar's website
 title:               tomzidar.com
-url:                 http://clarkbk.com
+url:                 http://tomzidar.com
 
 # About
 author:
