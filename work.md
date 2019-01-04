@@ -8,11 +8,11 @@ style: page
 
 ## Work
 * [Uber](https://www.uber.com/), Marketing Analytics R&D 
-* [Uber](https://www.uber.com/), as a Growth Analyst 
-* TownnHound - Acquired and rebranded to [Reserve with Google](https://www.google.com/maps/reserve/), as a Growth Analytics Intern
-* [Solstice Mobile](http://www.solstice-mobile.com), as a Mobile Product Intern
-* [SeatGeek](https://seatgeek.com/), as a Data Analyst Intern
-* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), as an Operations Intern
+* [Uber](https://www.uber.com/), Growth Analyst 
+* TownnHound - Acquired and rebranded to [Reserve with Google](https://www.google.com/maps/reserve/), Growth Analytics Intern
+* [Solstice Mobile](http://www.solstice-mobile.com), Mobile Product Intern
+* [SeatGeek](https://seatgeek.com/), Data Analyst Intern
+* [Ryerson](http://www.ryerson.com/?__geo=635752838062540315&sc_lang=en), Supply Chain Intern
 
 
 <div class="row" id="video">
@@ -59,17 +59,6 @@ style: page
 	</div>
 </div>
 
-
-
-<div class="row">
-	<div class="col col-xs-4">
-		<li> Excel (1 year) </li>
-	</div> 
-
-	<div class="col col-xs-8">
-		<progress value="100" max="200"></progress>
-	</div>
-</div>
 
 
 
