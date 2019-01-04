@@ -69,7 +69,7 @@ style: page
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="75" max="200"></progress>
+		<progress value="50" max="200"></progress>
 	</div>
 </div>
 
@@ -83,7 +83,7 @@ style: page
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="75" max="200"></progress>
+		<progress value="50" max="200"></progress>
 	</div>
 </div>
 
