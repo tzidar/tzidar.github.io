@@ -16,7 +16,7 @@ style: page
 
 
 <div class="row" id="video">
-<p> Here's a video we made this summer for Townhound: </p>
+<p> Here's a video we made that summer for Townhound: </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vshG6Yiaoiw" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -65,11 +65,11 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> HMTL, CSS (3 months) </li>
+		<li> HMTL, CSS (<1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="17" max="200"></progress>
+		<progress value="75" max="200"></progress>
 	</div>
 </div>
 
@@ -79,11 +79,11 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Excel VBA (3 months) </li>
+		<li> Excel VBA (<1 year) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="17" max="200"></progress>
+		<progress value="75" max="200"></progress>
 	</div>
 </div>
 
