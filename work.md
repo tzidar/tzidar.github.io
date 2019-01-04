@@ -51,7 +51,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Python Pandas (1.5 years) </li>
+		<li> Pandas (1.5 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
