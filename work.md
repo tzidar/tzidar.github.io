@@ -31,7 +31,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> R (2 years) </li>
+		<li> R (3 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -41,7 +41,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> SQL (2 years) </li>
+		<li> SQL (3 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -51,7 +51,7 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Python Pandas (1 year) </li>
+		<li> Python Pandas (1.5 years) </li>
 	</div> 
 
 	<div class="col col-xs-8">
@@ -69,7 +69,7 @@ style: page
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="50" max="200"></progress>
+		<progress value="17" max="200"></progress>
 	</div>
 </div>
 
@@ -79,11 +79,11 @@ style: page
 
 <div class="row">
 	<div class="col col-xs-4">
-		<li> Excel VBA (2 months) </li>
+		<li> Excel VBA (3 months) </li>
 	</div> 
 
 	<div class="col col-xs-8">
-		<progress value="40" max="200"></progress>
+		<progress value="17" max="200"></progress>
 	</div>
 </div>
 
