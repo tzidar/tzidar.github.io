@@ -7,7 +7,7 @@ style: page
 ## Life
 
 
-After moving 5 times as a child, I now call Kansas City home (though none of the 4 older siblings do). During those formative years, I went to an all-male Jesuit high school,  worked at a local carwash, started a car detailing company, and occasionally explored nearby farms. I decided I wanted a bit of a change so I went far far away to the University of Michigan where I studied Business and Informatics. I started working at Uber as a Growth Analyst summer of 2016.
+After moving 5 times as a child, I now call Kansas City home (though none of the 4 older siblings do). During those formative years, I went to an all-male Jesuit high school,  worked at a local carwash, started a car detailing company, and occasionally explored nearby farms. I decided I wanted a bit of a change so I went far far away to the University of Michigan where I studied Business and Informatics. I started working at Uber as a Growth Analyst summer of 2016. After 3 years of Uber, I moved to KeepTruckin where we're starting the Data Science team. 
 
 <div style="text-decoration:none; overflow:hidden; height:500px; width:1000px; max-width:100%;"><div id="gmap-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyCLRQStoq060EcSC1-Fv4D-Dtw3bhY0l6Q&amp;origin=Kansas+City&amp;destination=San+Francisco+California&amp;avoid=tolls|highways"></iframe></div><a class="code-for-google-map" href="https://www.bootstrapskins.com" id="get-map-data">bootstrap market</a><style>#gmap-display .map-generator{max-width: 100%; max-height: 100%; background: none;</style></div>
 

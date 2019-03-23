@@ -7,6 +7,7 @@ style: page
 
 
 ## Work
+* [KeepTruckin](https://keeptruckin.com), Data Scientist
 * [Uber](https://www.uber.com/), Marketing Data Science R&D 
 * [Uber](https://www.uber.com/), Growth Analyst 
 * TownnHound - Acquired and rebranded to [Reserve with Google](https://www.google.com/maps/reserve/), Growth Analytics Intern
